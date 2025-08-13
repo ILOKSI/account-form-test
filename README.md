@@ -1,5 +1,5 @@
 # account-form-test
-Форма управления учетными записями
+Форма управления учетными записями.
 Стек:
  - Vue.js 3. Composition API 
  - TypeScript 
